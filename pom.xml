@@ -34,7 +34,7 @@
         <antlr4.version>4.7.1</antlr4.version>
         
         <groovy.version>2.4.5</groovy.version>
-        <snakeyaml.version>1.16</snakeyaml.version>
+        <snakeyaml.version>1.26</snakeyaml.version>
         
         <netty.version>4.1.16.Final</netty.version>
         <commons-codec.version>1.10</commons-codec.version>
